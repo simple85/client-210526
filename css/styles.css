@@ -102,7 +102,7 @@ h1, h2, h3, h4 { font-family: var(--font-heading); line-height: 1.2; }
 .nav-links a.nav-cta {
   background: var(--clr-accent);
   color: var(--clr-white) !important;
-  padding: 24px 75px;
+  padding: 15px 50px;
   border-radius: 10px;
   font-weight: 700;
   font-size: 1.15rem;
